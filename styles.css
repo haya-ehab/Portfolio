@@ -874,6 +874,23 @@ p {
    
    
   }
+
+
+  
+
+.ema{
+
+    font-size: 17px;
+    margin-top: 2.5rem;
+    padding-top: 2.5rem;
+    color: #594100;
+    text-transform: lowercase;
+    
+
+}
+
+
+
   
   .footer .credit {
     font-size: 17px;
@@ -881,6 +898,7 @@ p {
     padding-top: 2.5rem;
     border-top: .1rem solid var(--light-white);
     color: #594100;
+    text-transform: none;
     
 
   }
