@@ -32,6 +32,7 @@ html {
     background-color: #FFC6C6;
 }
 
+
 ::-webkit-scrollbar {
     height: .5rem;
     width: 1rem;
@@ -711,6 +712,11 @@ text-align: center;
 .submit-btn:hover {
     background: #644A07;
     transform: translateY(-2px);
+}
+
+.khamsat {
+
+    
 }
 
 @media (max-width: 991px) {
