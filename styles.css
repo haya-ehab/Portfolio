@@ -376,7 +376,7 @@ text-align: center;
    
    .skills .slides:hover{
        transform: translateY(-10px);
-       box-shadow: 0 0 1rem;
+      
    }  
    
    
