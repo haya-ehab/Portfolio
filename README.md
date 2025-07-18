@@ -2,7 +2,7 @@
 
 # 💼 Haya Ehab – Personal Portfolio Website
 
-Welcome to my personal portfolio website! I'm **Haya Ehab**, a passionate **Junior Frontend Developer** with 1 years of coding experience. This website showcases my skills, services, and projects, all built using **HTML**, **CSS**, and **JavaScript**.
+Welcome to my personal portfolio website! I'm **Haya Ehab**, a passionate **Junior Frontend Developer** with 1 year of coding experience. This website showcases my skills, services, and projects, all built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
